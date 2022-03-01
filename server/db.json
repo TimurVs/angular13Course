@@ -1,0 +1,31 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "title": "Angular 13 Fundamentals",
+      "description": "Learn the fundamentals of Angular 13",
+      "percentComplete": 63,
+      "favorite": true
+    },
+    {
+      "id": "2",
+      "title": "Angular 13 Extras",
+      "description": "Learn Angular 13",
+      "percentComplete": 14,
+      "favorite": true
+    },
+    {
+      "id": "1RkPYv0",
+      "title": "TEST",
+      "description": "NEWTEST",
+      "percentComplete": 0,
+      "favorite": false
+    }
+  ],
+  "lessons": [
+    {
+      "id": "1",
+      "title": "Basics"
+    }
+  ]
+}
